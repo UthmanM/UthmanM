@@ -1,0 +1,16 @@
+town,area,price,monroe ,west windsor,robbinsville
+monroe town,2600,55000,1,0,0
+monroe town,3000,56500,1,0,0
+monroe town,3200,61000,1,0,0
+monroe town,3600,68000,1,0,0
+monroe town,4000,72500,1,0,0
+west windsor,2600,58500,0,1,0
+west windsor,2800,61500,0,1,0
+west windsor,3300,71000,0,1,0
+west windsor,3600,57500,0,1,0
+west windsor,2600,60000,0,1,0
+robbinsville,2900,62000,0,0,1
+robbinsville,3100,69500,0,0,1
+robbinsville,3600,62500,0,0,1
+robbinsville,3000,69005,0,0,1
+robbinsville,3900,61500,0,0,1
